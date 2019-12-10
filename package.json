@@ -1,0 +1,20 @@
+{
+  "name": "PlazitVideo",
+  "version": "1.0.0",
+  "description": "PlazitVideo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpablos/PlazitVideo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpablos/PlazitVideo/issues"
+  },
+  "homepage": "https://github.com/lpablos/PlazitVideo#readme"
+}
